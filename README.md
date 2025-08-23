@@ -1,8 +1,3 @@
-Show! 🎯
-Aqui vai uma versão **bem profissional e moderna do README**, já com **badges** para destacar tecnologias e status.
-
----
-
 # 🐪 Projeto Apache Camel – User & File Processor
 
 ![Java](https://img.shields.io/badge/Java-17+-red?style=for-the-badge\&logo=openjdk)
