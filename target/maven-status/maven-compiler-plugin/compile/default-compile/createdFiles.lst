@@ -1,0 +1,4 @@
+org/apache/camel/learn/MyRouteBuilder.class
+org/apache/camel/learn/User.class
+org/apache/camel/learn/UserService.class
+org/apache/camel/learn/MainApp.class
